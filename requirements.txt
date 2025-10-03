@@ -1,0 +1,4 @@
+huggingface_sb3
+stable-baselines3
+swig
+gymnasium[box2d]
